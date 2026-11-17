@@ -11,7 +11,7 @@ Uso este GitHub para colocar os estudos em prática e acompanhar a evolução do
 | Projeto | Por que comecei | O que estou praticando |
 | --- | --- | --- |
 | [CYBERLAB](https://github.com/Osacul1/Cyberlab-pwa) · [abrir](https://osacul1.github.io/Cyberlab-pwa/) | Queria reunir meus estudos e conseguir usar pelo celular. | HTML, CSS, JavaScript, armazenamento local e funcionamento de um PWA. |
-| [Lista de tarefas](https://github.com/Osacul1/lista-de-tarefas) | Comecei com um app pequeno para entender melhor o React. | Componentes, estado, formulários, filtros e testes. |
+| [Lista de tarefas](https://github.com/Osacul1/lista-de-tarefas) · [abrir](https://osacul1.github.io/lista-de-tarefas/) | Comecei com um app pequeno para entender melhor o React. | Componentes, estado, formulários, filtros e testes. |
 
 Os dois estão em desenvolvimento. Os READMEs mostram como usar, o que já existe e as limitações conhecidas.
 
